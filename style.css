@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Oswald:wght@200..700&display=swap');
 /** This imports a font**/
 body {
-    background:url("https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_1280.jpg") no-repeat center center;
+    background:url("https://picsum.photos/id/194/1000/2000") no-repeat center center;
     background-size: cover;
-    color:#58ff53;
-    font-family:Gruppo;
+    color:#18182f;
+    font-family:Oswald;
     font-size:22px;
     height: 150vh;
+    
+    
 }
 
 h1 {
@@ -20,6 +23,6 @@ h2 {
 }
 
 a {
-  color:#FFFFFF;
+  color:#0fff0f;
   font-size:34px;
 }
