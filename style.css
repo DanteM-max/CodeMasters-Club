@@ -80,3 +80,13 @@ table {
   background:url("https://picsum.photos/id/415/1000/2000") no-repeat center center;
     background-size: cover;
 }
+
+a:hover {
+  color:green;
+  font-family: Kanit;
+  font-size:80%
+}
+
+a#noAnarchy:hover::after {
+  content:" |Because This isn't anarchy!|"
+}
